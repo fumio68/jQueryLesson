@@ -1,3 +1,3 @@
 $(function(){
-	//$("button").html("Click");
+	$("button").html("Click");
 });
